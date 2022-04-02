@@ -18,7 +18,7 @@ Our proposals included:
 
 ## Example Results
 Comparison of original monthly SST and predicted SST images for 12 months. 
-![Results](/docs/results.JPG)
+![Results](/results.JPG)
 
 ## Run
 1. If you want to run models, first go "CallMLModels",   
